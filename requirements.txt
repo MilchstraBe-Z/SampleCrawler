@@ -1,0 +1,7 @@
+beautifulsoup4>=4.12.3
+markdown>=3.6
+requests>=2.31.0
+selenium>=4.20.0
+trafilatura>=1.12.2
+undetected-chromedriver>=3.5.5
+webdriver-manager>=4.0.1
